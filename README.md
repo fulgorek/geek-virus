@@ -24,4 +24,4 @@ In the sequence `TTCCGGAA`, we can determine that the patient is healthy because
 T is not the dominant letter, therefore the patient is `not infected`.
 
 #### Results
-Code scored `24.2333` (#1) in #CPMX7 running in `AWS` using multiple cores.
+Code scored `14.4333` (#1) in #CPMX7 running in `AWS`.
