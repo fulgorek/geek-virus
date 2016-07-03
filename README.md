@@ -25,3 +25,22 @@ T is not the dominant letter, therefore the patient is `not infected`.
 
 #### Results
 Code scored `14.4333` (#1) in #CPMX7 running in `AWS`.
+
+#### How to
+
+Clone the repo:
+
+`git clone git@github.com:fulgorek/geek-virus.git`
+
+Open `run.rb` and change your `email/jobs`
+
+Execute:
+
+run `$ ruby run.rb`
+
+##### voilà!
+
+
+## License
+
+Software licensed under the [MIT license](http://opensource.org/licenses/MIT).
