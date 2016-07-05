@@ -34,9 +34,13 @@ Clone the repo:
 
 Open `run.rb` and change your `email/jobs`
 
+Install dependencies:
+
+`bundle install`
+
 Execute:
 
-run `$ ruby run.rb`
+run `ruby run.rb`
 
 ##### voilà!
 
