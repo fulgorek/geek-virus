@@ -30,7 +30,7 @@ Code scored `14.4333` (#1) in #CPMX7 running in `AWS`.
 
 Clone the repo:
 
-`git clone git@github.com:fulgorek/geek-virus.git`
+`git clone git@github.com:fulgorek/geek-virus-ruby.git`
 
 Open `run.rb` and change your `email/jobs`
 
